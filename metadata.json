@@ -1,0 +1,6 @@
+{
+  "name": "alipro aut",
+  "description": "Güvenli, çevrimdışı ve modern 2FA iki adımlı doğrulama (TOTP) uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
